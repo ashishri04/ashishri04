@@ -1,7 +1,7 @@
 [![MasterHead](https://acropolium.com/img/articles/find-backend-developers/img01.jpg)
 <h1 align="center">Hi 👋, I'm Ashi shrivastava</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="src="https://s3.studytonight.com/curious/uploads/pictures/1631204362-106730.png">
+<img align="right" alt="Coding" width="400" src="[https://s3.studytonight.com/curious/uploads/pictures/1631204362-106730.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLnXFB20swC-hgdYyAmZ8dDzWeojpItHG8FA&usqp=CAU)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishri04&label=Profile%20views&color=0e75b6&style=flat" alt="ashishri04" /> </p>
 
